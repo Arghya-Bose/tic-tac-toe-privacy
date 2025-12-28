@@ -1,92 +1,90 @@
-<h1>Privacy Policy</h1>
 
-<p><strong>Last updated:</strong> 23 September 2025</p>
+</head>
+<body>
+
+<h1>Privacy Policy for Coin Index</h1>
+
+<p><strong>Last updated:</strong> 28 December 2025</p>
 
 <p>
-<strong>App Name:</strong> Tic Tac Toe Online<br>
-<strong>Developer:</strong> ARGHYA BOSE<br>
-<strong>Contact Email:</strong> bosearghya33@gmail.com
+Coin Index respects your privacy. This Privacy Policy explains how information is handled
+when you use the Coin Index mobile application.
 </p>
 
-<hr>
-
-<h2>1. Introduction</h2>
-<p>
-This Privacy Policy explains how the <strong>Tic Tac Toe Online</strong> app handles user information.
-We respect your privacy and are committed to protecting it.
-</p>
-
-<h2>2. Information Collection and Use</h2>
-<p>
-This app <strong>does not collect, store, or share any personally identifiable information</strong>
-such as name, email address, phone number, location, or contacts.
-</p>
+<h2>Information Collection and Use</h2>
 
 <p>
-For online multiplayer gameplay, the app may temporarily process
-<strong>non-personal game-related data</strong>, including:
+Coin Index <strong>does not collect, store, or share any personal information</strong>.
 </p>
 
 <ul>
-  <li>Player moves</li>
-  <li>Game state</li>
-  <li>Room or match identifiers</li>
+    <li>No user registration</li>
+    <li>No login system</li>
+    <li>No personal data collection</li>
+    <li>No analytics</li>
+    <li>No Firebase or third-party tracking tools</li>
 </ul>
 
-<p>
-This data is used <strong>only to enable gameplay</strong> and is not linked to any individual.
-</p>
+<h2>Permissions Used</h2>
 
-<h2>3. Data Storage</h2>
-<ul>
-  <li>No personal data is stored permanently.</li>
-  <li>Game-related data exists only during an active game session.</li>
-  <li>All temporary data is automatically removed after the session ends.</li>
-</ul>
-
-<h2>4. Third-Party Services</h2>
-<p>
-The app may use third-party services (such as Firebase) to support:
-</p>
+<p>The app uses the following permissions only for core functionality:</p>
 
 <ul>
-  <li>Real-time online multiplayer functionality</li>
-  <li>App stability and performance</li>
+    <li>
+        <strong>Internet (<code>android.permission.INTERNET</code>)</strong><br>
+        Used to fetch live cryptocurrency prices from public APIs.
+    </li>
+    <li>
+        <strong>Network State (<code>android.permission.ACCESS_NETWORK_STATE</code>)</strong><br>
+        Used to check internet connectivity status.
+    </li>
 </ul>
 
 <p>
-These services may collect limited technical data required for operation and are governed
-by their own privacy policies.
+These permissions are <strong>not used to identify users</strong> or collect personal data.
 </p>
 
-<h2>5. Internet Permission</h2>
+<h2>Third-Party Services</h2>
+
 <p>
-The app requires an internet connection to enable
-<strong>remote multiplayer gameplay</strong>.
+Coin Index uses public cryptocurrency APIs only to display live market prices.
+No personal or device data is shared with these services.
 </p>
 
-<h2>6. Children’s Privacy</h2>
+<h2>Data Security</h2>
+
 <p>
-This app does not knowingly collect any personal information from children under the age of 13.
+Since Coin Index does not collect or store any user data, there is no risk of personal
+data exposure.
 </p>
 
-<h2>7. Data Security</h2>
+<h2>Children’s Privacy</h2>
+
 <p>
-All data transmitted during gameplay is <strong>encrypted in transit</strong>
-to protect users.
+Coin Index does not knowingly collect any personal information from children under the
+age of 13.
 </p>
 
-<h2>8. Changes to This Privacy Policy</h2>
+<h2>Changes to This Privacy Policy</h2>
+
 <p>
-This Privacy Policy may be updated from time to time.
-Any changes will be reflected on this page.
+This Privacy Policy may be updated from time to time. Any changes will be reflected on
+this page.
 </p>
 
-<h2>9. Contact Us</h2>
+<h2>Contact Us</h2>
+
 <p>
-If you have any questions about this Privacy Policy, please contact:
+If you have any questions about this Privacy Policy, you can contact us at:
 </p>
 
 <p>
 <strong>Email:</strong> bosearghya33@gmail.com
 </p>
+
+<footer>
+    <p>© 2025 Coin Index. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
